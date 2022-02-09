@@ -1,3 +1,5 @@
+--Forking to add building placement functionality!
+
 # Cigen
 A procedural city generator built for Unity.
 
